@@ -2,10 +2,10 @@ body{
     font-size: 16px;
     color: #fff;
     font-family: 'Oxygen', sans-serif;
-    background-color: #61122f;
+    background-color: dimgrey;
 }
 #header-nav{
-    background-color: #f6b319;
+    background-color: peachpuff;
     border: 0;
     border-radius: 0;
 }
